@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://media.giphy.com/media/kdj2WBYxVto5vpupPr/giphy.gif
+https://media.giphy.com/media/LqTKEd3NMN1rt9NcMz/giphy.gif
 
 GIF created with Giphy.com
 
