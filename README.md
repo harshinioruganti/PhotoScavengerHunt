@@ -2,7 +2,7 @@
 
 Submitted by: Harshini Oruganti
 
-PhotoScavengerHunt is an iOS application that is a scavenger hunt app. This app has a list which requires the user to attach photos based on the task. After attaching the photo to a task, the app shows the user where that photo was taken in a map.
+PhotoScavengerHunt is an iOS mobile application that is a scavenger hunt app. This app has a list which requires the user to attach photos based on the task. After attaching the photo to a task, the app shows the user where that photo was taken in a map.
 
 Time spent: 10 hours spent in total
 
